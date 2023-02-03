@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JUSTFIDEL/jf-secret-authentication#readme",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
